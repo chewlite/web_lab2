@@ -1,0 +1,374 @@
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/appsettings.json
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/MvcH
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/MvcH.deps.json
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/MvcH.runtimeconfig.json
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/MvcH.runtimeconfig.dev.json
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/MvcH.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/MvcH.pdb
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/MvcH.Views.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/MvcH.Views.pdb
+/home/usacheva_vs/MvcH/obj/Debug/netcoreapp3.1/MvcH.csprojAssemblyReference.cache
+/home/usacheva_vs/MvcH/obj/Debug/netcoreapp3.1/staticwebassets/MvcH.StaticWebAssets.Manifest.cache
+/home/usacheva_vs/MvcH/obj/Debug/netcoreapp3.1/staticwebassets/MvcH.StaticWebAssets.xml
+/home/usacheva_vs/MvcH/obj/Debug/netcoreapp3.1/MvcH.MvcApplicationPartsAssemblyInfo.cache
+/home/usacheva_vs/MvcH/obj/Debug/netcoreapp3.1/MvcH.RazorAssemblyInfo.cache
+/home/usacheva_vs/MvcH/obj/Debug/netcoreapp3.1/MvcH.RazorAssemblyInfo.cs
+/home/usacheva_vs/MvcH/obj/Debug/netcoreapp3.1/MvcH.AssemblyInfoInputs.cache
+/home/usacheva_vs/MvcH/obj/Debug/netcoreapp3.1/MvcH.AssemblyInfo.cs
+/home/usacheva_vs/MvcH/obj/Debug/netcoreapp3.1/MvcH.TagHelpers.input.cache
+/home/usacheva_vs/MvcH/obj/Debug/netcoreapp3.1/MvcH.TagHelpers.output.cache
+/home/usacheva_vs/MvcH/obj/Debug/netcoreapp3.1/MvcH.RazorCoreGenerate.cache
+/home/usacheva_vs/MvcH/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/home/usacheva_vs/MvcH/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/home/usacheva_vs/MvcH/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/home/usacheva_vs/MvcH/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/home/usacheva_vs/MvcH/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/usacheva_vs/MvcH/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/home/usacheva_vs/MvcH/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/home/usacheva_vs/MvcH/obj/Debug/netcoreapp3.1/MvcH.RazorTargetAssemblyInfo.cache
+/home/usacheva_vs/MvcH/obj/Debug/netcoreapp3.1/MvcH.RazorTargetAssemblyInfo.cs
+/home/usacheva_vs/MvcH/obj/Debug/netcoreapp3.1/MvcH.Views.pdb
+/home/usacheva_vs/MvcH/obj/Debug/netcoreapp3.1/MvcH.dll
+/home/usacheva_vs/MvcH/obj/Debug/netcoreapp3.1/MvcH.pdb
+/home/usacheva_vs/MvcH/obj/Debug/netcoreapp3.1/MvcH.csproj.CopyComplete
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/home/usacheva_vs/MvcH/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/usacheva_vs/MvcH/obj/Debug/netcoreapp3.1/Razor/Views/Hospitals/Create.cshtml.g.cs
+/home/usacheva_vs/MvcH/obj/Debug/netcoreapp3.1/Razor/Views/Hospitals/Delete.cshtml.g.cs
+/home/usacheva_vs/MvcH/obj/Debug/netcoreapp3.1/Razor/Views/Hospitals/Details.cshtml.g.cs
+/home/usacheva_vs/MvcH/obj/Debug/netcoreapp3.1/Razor/Views/Hospitals/Edit.cshtml.g.cs
+/home/usacheva_vs/MvcH/obj/Debug/netcoreapp3.1/Razor/Views/Hospitals/Index.cshtml.g.cs
+/home/usacheva_vs/MvcH/obj/Debug/netcoreapp3.1/Razor/Views/Patients/Create.cshtml.g.cs
+/home/usacheva_vs/MvcH/obj/Debug/netcoreapp3.1/Razor/Views/Patients/Delete.cshtml.g.cs
+/home/usacheva_vs/MvcH/obj/Debug/netcoreapp3.1/Razor/Views/Patients/Details.cshtml.g.cs
+/home/usacheva_vs/MvcH/obj/Debug/netcoreapp3.1/Razor/Views/Patients/Edit.cshtml.g.cs
+/home/usacheva_vs/MvcH/obj/Debug/netcoreapp3.1/Razor/Views/Patients/Index.cshtml.g.cs
+/home/usacheva_vs/MvcH/obj/Debug/netcoreapp3.1/Razor/Views/Rooms/Create.cshtml.g.cs
+/home/usacheva_vs/MvcH/obj/Debug/netcoreapp3.1/Razor/Views/Rooms/Delete.cshtml.g.cs
+/home/usacheva_vs/MvcH/obj/Debug/netcoreapp3.1/Razor/Views/Rooms/Details.cshtml.g.cs
+/home/usacheva_vs/MvcH/obj/Debug/netcoreapp3.1/Razor/Views/Rooms/Edit.cshtml.g.cs
+/home/usacheva_vs/MvcH/obj/Debug/netcoreapp3.1/Razor/Views/Rooms/Index.cshtml.g.cs
+/home/usacheva_vs/MvcH/obj/Debug/netcoreapp3.1/Razor/Views/Doctors/Create.cshtml.g.cs
+/home/usacheva_vs/MvcH/obj/Debug/netcoreapp3.1/Razor/Views/Doctors/Delete.cshtml.g.cs
+/home/usacheva_vs/MvcH/obj/Debug/netcoreapp3.1/Razor/Views/Doctors/Details.cshtml.g.cs
+/home/usacheva_vs/MvcH/obj/Debug/netcoreapp3.1/Razor/Views/Doctors/Edit.cshtml.g.cs
+/home/usacheva_vs/MvcH/obj/Debug/netcoreapp3.1/Razor/Views/Doctors/Index.cshtml.g.cs
+/home/usacheva_vs/MvcH/obj/Debug/netcoreapp3.1/Razor/Views/Relations/Create.cshtml.g.cs
+/home/usacheva_vs/MvcH/obj/Debug/netcoreapp3.1/Razor/Views/Relations/Delete.cshtml.g.cs
+/home/usacheva_vs/MvcH/obj/Debug/netcoreapp3.1/Razor/Views/Relations/Details.cshtml.g.cs
+/home/usacheva_vs/MvcH/obj/Debug/netcoreapp3.1/Razor/Views/Relations/Edit.cshtml.g.cs
+/home/usacheva_vs/MvcH/obj/Debug/netcoreapp3.1/Razor/Views/Relations/Index.cshtml.g.cs
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/appsettings.json
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/MvcH
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/MvcH.deps.json
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/MvcH.runtimeconfig.json
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/MvcH.runtimeconfig.dev.json
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/MvcH.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/MvcH.pdb
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/MvcH.Views.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/MvcH.Views.pdb
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/home/usacheva_vs/MvcH project/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/usacheva_vs/MvcH project/obj/Debug/netcoreapp3.1/MvcH.csprojAssemblyReference.cache
+/home/usacheva_vs/MvcH project/obj/Debug/netcoreapp3.1/staticwebassets/MvcH.StaticWebAssets.Manifest.cache
+/home/usacheva_vs/MvcH project/obj/Debug/netcoreapp3.1/staticwebassets/MvcH.StaticWebAssets.xml
+/home/usacheva_vs/MvcH project/obj/Debug/netcoreapp3.1/MvcH.MvcApplicationPartsAssemblyInfo.cache
+/home/usacheva_vs/MvcH project/obj/Debug/netcoreapp3.1/MvcH.RazorAssemblyInfo.cache
+/home/usacheva_vs/MvcH project/obj/Debug/netcoreapp3.1/MvcH.RazorAssemblyInfo.cs
+/home/usacheva_vs/MvcH project/obj/Debug/netcoreapp3.1/MvcH.AssemblyInfoInputs.cache
+/home/usacheva_vs/MvcH project/obj/Debug/netcoreapp3.1/MvcH.AssemblyInfo.cs
+/home/usacheva_vs/MvcH project/obj/Debug/netcoreapp3.1/MvcH.TagHelpers.input.cache
+/home/usacheva_vs/MvcH project/obj/Debug/netcoreapp3.1/MvcH.TagHelpers.output.cache
+/home/usacheva_vs/MvcH project/obj/Debug/netcoreapp3.1/MvcH.RazorCoreGenerate.cache
+/home/usacheva_vs/MvcH project/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/home/usacheva_vs/MvcH project/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/home/usacheva_vs/MvcH project/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/usacheva_vs/MvcH project/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/home/usacheva_vs/MvcH project/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/home/usacheva_vs/MvcH project/obj/Debug/netcoreapp3.1/MvcH.RazorTargetAssemblyInfo.cache
+/home/usacheva_vs/MvcH project/obj/Debug/netcoreapp3.1/MvcH.RazorTargetAssemblyInfo.cs
+/home/usacheva_vs/MvcH project/obj/Debug/netcoreapp3.1/MvcH.Views.pdb
+/home/usacheva_vs/MvcH project/obj/Debug/netcoreapp3.1/MvcH.csproj.CopyComplete
+/home/usacheva_vs/MvcH project/obj/Debug/netcoreapp3.1/MvcH.dll
+/home/usacheva_vs/MvcH project/obj/Debug/netcoreapp3.1/MvcH.pdb
+/home/usacheva_vs/MvcH project/obj/Debug/netcoreapp3.1/Razor/Views/Rooms/Create.cshtml.g.cs
+/home/usacheva_vs/MvcH project/obj/Debug/netcoreapp3.1/Razor/Views/Rooms/Delete.cshtml.g.cs
+/home/usacheva_vs/MvcH project/obj/Debug/netcoreapp3.1/Razor/Views/Rooms/Details.cshtml.g.cs
+/home/usacheva_vs/MvcH project/obj/Debug/netcoreapp3.1/Razor/Views/Rooms/Edit.cshtml.g.cs
+/home/usacheva_vs/MvcH project/obj/Debug/netcoreapp3.1/Razor/Views/Rooms/Index.cshtml.g.cs
+/home/usacheva_vs/MvcH project/obj/Debug/netcoreapp3.1/Razor/Views/Hospitals/Create.cshtml.g.cs
+/home/usacheva_vs/MvcH project/obj/Debug/netcoreapp3.1/Razor/Views/Hospitals/Delete.cshtml.g.cs
+/home/usacheva_vs/MvcH project/obj/Debug/netcoreapp3.1/Razor/Views/Hospitals/Details.cshtml.g.cs
+/home/usacheva_vs/MvcH project/obj/Debug/netcoreapp3.1/Razor/Views/Hospitals/Edit.cshtml.g.cs
+/home/usacheva_vs/MvcH project/obj/Debug/netcoreapp3.1/Razor/Views/Hospitals/Index.cshtml.g.cs
+/home/usacheva_vs/MvcH project/obj/Debug/netcoreapp3.1/Razor/Views/Doctors/Create.cshtml.g.cs
+/home/usacheva_vs/MvcH project/obj/Debug/netcoreapp3.1/Razor/Views/Doctors/Delete.cshtml.g.cs
+/home/usacheva_vs/MvcH project/obj/Debug/netcoreapp3.1/Razor/Views/Doctors/Details.cshtml.g.cs
+/home/usacheva_vs/MvcH project/obj/Debug/netcoreapp3.1/Razor/Views/Doctors/Edit.cshtml.g.cs
+/home/usacheva_vs/MvcH project/obj/Debug/netcoreapp3.1/Razor/Views/Doctors/Index.cshtml.g.cs
+/home/usacheva_vs/MvcH project/obj/Debug/netcoreapp3.1/Razor/Views/Patients/Create.cshtml.g.cs
+/home/usacheva_vs/MvcH project/obj/Debug/netcoreapp3.1/Razor/Views/Patients/Delete.cshtml.g.cs
+/home/usacheva_vs/MvcH project/obj/Debug/netcoreapp3.1/Razor/Views/Patients/Details.cshtml.g.cs
+/home/usacheva_vs/MvcH project/obj/Debug/netcoreapp3.1/Razor/Views/Patients/Edit.cshtml.g.cs
+/home/usacheva_vs/MvcH project/obj/Debug/netcoreapp3.1/Razor/Views/Patients/Index.cshtml.g.cs
+/home/usacheva_vs/MvcH project/obj/Debug/netcoreapp3.1/Razor/Views/Relations/Create.cshtml.g.cs
+/home/usacheva_vs/MvcH project/obj/Debug/netcoreapp3.1/Razor/Views/Relations/Delete.cshtml.g.cs
+/home/usacheva_vs/MvcH project/obj/Debug/netcoreapp3.1/Razor/Views/Relations/Details.cshtml.g.cs
+/home/usacheva_vs/MvcH project/obj/Debug/netcoreapp3.1/Razor/Views/Relations/Edit.cshtml.g.cs
+/home/usacheva_vs/MvcH project/obj/Debug/netcoreapp3.1/Razor/Views/Relations/Index.cshtml.g.cs
